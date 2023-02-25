@@ -1,6 +1,6 @@
 # Udemy-Dataset
 Basic visualization on Udemy Dataset.
-Outcomes of Visualization:-
+Outcomes of Visualization:-\n
 •The maximum Price of courses on Udemy is 200 Rs Only and a maximum of 78.5 Hr content is available
 on Udemy.
 •The average price of the Course is 66 Rs.
